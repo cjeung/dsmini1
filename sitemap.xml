@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cjeung.github.io/dsmini1/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cjeung.github.io/dsmini1/</loc>
+</url>
+<url>
+<loc>https://cjeung.github.io/dsmini1/about.html</loc>
+<lastmod>2024-02-04T15:10:58-08:00</lastmod>
+<image:image>
+<image:loc>https://cjeung.github.io/dsmini1/media/posts/4/header.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cjeung.github.io/dsmini1/mini-assignment-1-web-publishing.html</loc>
+<lastmod>2024-02-01T21:10:07-08:00</lastmod>
+<image:image>
+<image:loc>https://cjeung.github.io/dsmini1/media/posts/1/IMG-9744.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cjeung.github.io/dsmini1/media/posts/1/IMG-9750.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cjeung.github.io/dsmini1/work-experience.html</loc>
+<lastmod>2024-02-04T14:48:40-08:00</lastmod>
+</url>
+</urlset>

@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Shell 1",
+    "description": "",
+    "home_page_url": "https://cjeung.github.io/dsmini1",
+    "feed_url": "https://cjeung.github.io/dsmini1/feed.json",
+    "user_comment": "",
+    "icon": "https://cjeung.github.io/dsmini1/media/website/logo.jpg",
+    "author": {
+        "name": "Carly Jeung"
+    },
+    "items": [
+    ]
+}

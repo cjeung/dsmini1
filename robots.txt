@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cjeung.github.io/dsmini1/sitemap.xml
